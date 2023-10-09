@@ -1,0 +1,27 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "echo \"# nodeJS_Blog\" >> README.md\r - git init\r - git add README.md\r - git commit -m \"first commit\"\r - git branch -M main\r - git remote add origin https://github.com/levantan1401/nodeJS_Blog.git\r - git push -u origin main",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levantan1401/Blog_NodeJS.git"
+  },
+  "keywords": [
+    "nodejs",
+    "blog"
+  ],
+  "author": "tandev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levantan1401/Blog_NodeJS/issues"
+  },
+  "homepage": "https://github.com/levantan1401/Blog_NodeJS#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
