@@ -19,3 +19,7 @@ echo "# Blog_NodeJS" >> README.md
 
 - B5: npm i morgan --save-dev
 
+- B6: npm install express-handlebars
+
+- B7: npm install node-sass --save-dev
+
